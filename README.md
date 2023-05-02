@@ -29,4 +29,5 @@ Source Code:https://github.com/jpadwor1/Simon-Game
 
 Live Demo:https://jpadwor1.github.io/Simon-Game/
 
-![image](https://user-images.githubusercontent.com/128070765/235517452-9f3d4efd-54e8-41a6-b6ab-d0af6511426c.png)
+![image](https://user-images.githubusercontent.com/128070765/235700023-931218ad-34e0-4fe9-bc5c-f301a3a75580.png)
+
